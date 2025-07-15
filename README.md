@@ -54,4 +54,4 @@ Each run creates an entry in `logs/compression_log.txt`:
 
 ## Author
 
-## **Aaditya Goel**
+# **Aaditya Goel**
