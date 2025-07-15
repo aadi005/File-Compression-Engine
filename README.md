@@ -1,4 +1,4 @@
-# stockDataCompressionEngine
+# Data Compression Engine
 
 A C++ project that compresses and decompresses Apple stock price data using delta encoding.  
 Logs performance metrics including compression ratio, time taken, and validation status.
