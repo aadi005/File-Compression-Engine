@@ -10,3 +10,6 @@ data/compressed.bin
 # System files
 .DS_Store
 *.swp
+
+#vsCode
+.vscode/
