@@ -1,0 +1,12 @@
+# Binaries
+bin/
+*.o
+
+# Logs and outputs
+logs/
+restored/
+data/compressed.bin
+
+# System files
+.DS_Store
+*.swp
